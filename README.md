@@ -1,1 +1,1 @@
-# CognosDashborad
+# Cognos Dashborad
